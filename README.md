@@ -35,8 +35,8 @@ Este repositório contém a **primeira atividade prática** de JavaScript com fo
 
  
 🧠 Exemplo de saída no console
-A cor favorita de Carla é lilás. Sua citação favorita é: "Seja a mudança que você quer ver no mundo"
 
+A cor favorita de Carla é lilás. Sua citação favorita é: "Seja a mudança que você quer ver no mundo"
 Seu nome em maiúsculas: FERNANDA  
 Seu nome tem 8 caracteres  
 Seu nome contém a letra "A"? true
