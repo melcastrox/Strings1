@@ -21,7 +21,7 @@ Este repositório contém a **primeira atividade prática** de JavaScript com fo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone   https://github.com/melcastrox/Strings1.git
 2. Abra o arquivo index.html no navegador.
 
 3. Pressione F12 para abrir o console e clique nos botões para testar cada funcionalidade.
